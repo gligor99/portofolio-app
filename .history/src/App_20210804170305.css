@@ -405,8 +405,8 @@ nav .menu-btn,
 .contact-input a {
 	width: 200px;
 	height: 35px;
-	background-color: #30475E;
-	color: #DDDDDD;
+	background-color: #000266;
+	color: #FFFFFF;
 	display: flex;
 	font-size: 0.9rem;
 	justify-content: center;
@@ -418,8 +418,8 @@ nav .menu-btn,
 
 .contact-input a:hover {
 	transition: 0.2s ease-in-out;
-	background-color: #222831;
-	color: #DDDDDD;
+	background-color: #d0ff00;
+	color: #000266;
 }
 
 
@@ -505,7 +505,7 @@ nav .menu-btn,
 		position: absolute;
 		top: 65px;
 		left: 0px;
-		background-color: #DDDDDD;
+		background-color: #FFFFFF;
 		border-bottom: 4px solid #1db096;
 		width: 100%;
 		padding: 0px;
@@ -584,7 +584,7 @@ nav .menu-btn,
 /*Footer */
 
 .footer-distributed {
-	background-color: #222831;
+	background-color: #000266;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	width: 100%;
@@ -612,7 +612,7 @@ nav .menu-btn,
 }
 
 .footer-distributed h3 span {
-	color: #F05454;
+	color: #d0ff00;
 }
 
 .footer-distributed .footer-links {
@@ -630,7 +630,7 @@ nav .menu-btn,
 }
 
 .footer-distributed .footer-company-name {
-	color: #F05454;
+	color: #d0ff00;
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
@@ -641,7 +641,7 @@ nav .menu-btn,
 }
 
 .footer-distributed .footer-center i {
-	background-color: #30475E;
+	background-color: #000266;
 	color: #ffffff;
 	font-size: 25px;
 	width: 38px;
@@ -673,7 +673,7 @@ nav .menu-btn,
 }
 
 .footer-distributed .footer-center p a {
-	color: #F05454;
+	color: #d0ff00;
 	text-decoration: none;
 	;
 }
@@ -718,12 +718,12 @@ nav .menu-btn,
 }
 
 .footer-icons a:hover {
-	background-color: #F05454;
+	background-color: #d0ff00;
 	transition: 0.2s ease-out;
 }
 
 .footer-links a:hover {
-	color: #F05454;
+	color: #d0ff00;
 	transition: 0.2s ease-out;
 }
 
